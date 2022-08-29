@@ -18,4 +18,4 @@ function Die(props) {
         </div>
     )
 }
-export default Die;
+export default Die; 
