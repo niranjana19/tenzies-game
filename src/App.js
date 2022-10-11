@@ -7,7 +7,7 @@ import Style from "./style.css"
 
  
 
-function App() {
+function App() { 
 
   const [dice, setDice] = React.useState(allNewDice())
   const [tenzies, setTenzies] = React.useState(false)
